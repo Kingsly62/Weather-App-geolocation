@@ -13,3 +13,4 @@ This is a simple javascript project made with the help of HTML, CSS and OpenWeat
 ![Screenshot (20)](https://user-images.githubusercontent.com/90332218/194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1.png)
 
 
+Live Link: https://weather-app-geolcation.netlify.app/
